@@ -6,7 +6,7 @@ import pandas as pd
 import plotly.express as px
 
 
-GOOGLE_API_KEY = 'AIzaSyDlfQowL4ytEsQ8rBn6XJb1ED3QUCUksFo'
+GOOGLE_API_KEY = 'Your API Key'
 
 genai.configure(api_key=GOOGLE_API_KEY)
 database_path = '/Users/abhi/Desktop/Text_SQL_Proj/Job_Postings.db'
