@@ -48,17 +48,17 @@ The "Text-to-Data Retrieval and Insightful Chart Generation" project is a cuttin
   
 # Benefits:
 
-* Accessibility: Makes advanced data querying and analysis accessible to users without technical expertise, fostering a data-driven culture across various organizational levels.
-* Efficiency: Streamlines the data analysis process by automating the conversion of natural language into SQL queries and visual representations, saving time and reducing complexity.
-* Insightful: Enhances decision-making by providing clear, actionable insights through visually appealing and easy-to-understand charts.
-* Empowerment: Encourages self-service analytics among users, promoting curiosity and independent data exploration.
+* **Accessibility:** Makes advanced data querying and analysis accessible to users without technical expertise, fostering a data-driven culture across various organizational levels.
+* **Efficiency:** Streamlines the data analysis process by automating the conversion of natural language into SQL queries and visual representations, saving time and reducing complexity.
+* **Insightful:** Enhances decision-making by providing clear, actionable insights through visually appealing and easy-to-understand charts.
+* **Empowerment:** Encourages self-service analytics among users, promoting curiosity and independent data exploration.
   
 # Use Cases:
 
-* Business Intelligence: Rapidly answer questions about sales trends, customer demographics, and market conditions to drive strategic decisions.
-* Human Resources: Analyze workforce data to better understand employee distribution, performance metrics, and to aid in recruitment planning.
-* Operational Efficiency: Identify process bottlenecks and areas for improvement by visualizing workflow data.
-* Financial Analysis: Track financial performance, including revenue growth and cost management, to aid in financial planning and budgeting.
+* **Business Intelligence:** Rapidly answer questions about sales trends, customer demographics, and market conditions to drive strategic decisions.
+* **Human Resources:** Analyze workforce data to better understand employee distribution, performance metrics, and to aid in recruitment planning.
+* **Operational Efficiency:** Identify process bottlenecks and areas for improvement by visualizing workflow data.
+* **Financial Analysis:** Track financial performance, including revenue growth and cost management, to aid in financial planning and budgeting.
   
 # Conclusion:
 
